@@ -1,3 +1,4 @@
 # hello-world
 Just Another Repository
-jghjgjhgjgjgg
+First github project.
+Hope to work extensively on this wonderful platform 
